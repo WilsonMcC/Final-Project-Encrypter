@@ -19,3 +19,7 @@ File decrypted message popup
 
 ~~Encrypt the file after choosing it~~
 
+Use decrypt button to prompt for key file and file to decrypt
+
+
+
