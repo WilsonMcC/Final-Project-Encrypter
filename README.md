@@ -32,7 +32,7 @@ After selecting open file, there will then be a message indicating that the file
 
 in this screenshot I encrypted Test_Bear.txt so then the program output the file Test_Bear.txt_Encrypted to the directory
 
-6. In the directory where you ran the program, there should now be a file called Key_file.txt. This is the key you will use the decrypt the file you have just encrypted.
+6. In the directory where you ran the program, there should now be a file called Key_file.txt. This is the key you will use to decrypt the file copy you have just encrypted.
 
 7. 
 
