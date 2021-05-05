@@ -42,6 +42,8 @@ in this screenshot I encrypted Test_Bear.txt so then the program output the file
 
 ![Capture55](https://user-images.githubusercontent.com/82771488/117188283-e56b6b80-adaa-11eb-8d88-ab8b4b84590e.PNG)
 
+![Capture88](https://user-images.githubusercontent.com/82771488/117188787-6f1b3900-adab-11eb-9f3a-9d3a9c1c6209.PNG)
+
 8. After selecting the file there will be another pop-up telling you to select the key file that was generated when you encrypted the file. This is named Key_file.txt
 
 
