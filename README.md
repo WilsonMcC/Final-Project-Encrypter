@@ -36,6 +36,8 @@ in this screenshot I encrypted Test_Bear.txt so then the program output the file
 
 6. In the directory where you ran the program, there should now be a file called Key_file.txt. This is the key you will use to decrypt the file copy you have just encrypted.
 
+![Capture44](https://user-images.githubusercontent.com/82771488/117187251-bc96a680-ada9-11eb-83c4-8f3950a3b035.PNG)
+
 7. 
 
 
