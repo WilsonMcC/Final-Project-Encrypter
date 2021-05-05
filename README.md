@@ -83,8 +83,8 @@ https://docs.python.org/3/library/base64.html
 
 * Direct input from the user to allow them to copy and paste the key instead of choosing a file
 
-* Allow the user to type in a message instead of choosing a file
+* Allow the user to type in a message to encrypt instead of choosing a file that would contain that message
 
 * Different encryption types/methods other than using Fernet
 
-* Better layout/styling 
+* Better layout/styling (maybe also encryption/decryption sound effect)
