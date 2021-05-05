@@ -23,6 +23,10 @@ This is my final project for Programming for IT CIS-153. This python program use
 
 4. After clicking the encrypt button, there will now be file browse popup, you will then select the file you want to encrypt. After selecting a file, there will then be a message indicating that the file you have selected has been encrypted. 
 
+5. In same directory where you have selected the file, there should now be an extra file called the same name except with "_encrypted" at the end. This is because there is now an encrypted copy of the file you have selected. The encryption method/library used in this program is Fernet.
+
+6. In the directory where you ran the program, there should now be 
+
 
 
 
