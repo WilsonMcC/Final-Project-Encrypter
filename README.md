@@ -17,7 +17,7 @@ This is my final project for Programming for IT CIS-153. This python program use
 
 1. Download the encrypter.py file (since tkinter is build into python you won't need to npm install)
 
-2. Run the encrypter.py file
+2. Run the encrypter.py file in python 
 
 3. You will now see a tkinter GUI pop up with two buttons on each side, encrypt file and decrypt file
 
