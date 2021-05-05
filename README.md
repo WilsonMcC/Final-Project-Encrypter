@@ -12,3 +12,20 @@ This is my final project for Programming for IT CIS-153. This python program use
 
 
 ![Untitled Diagram](https://user-images.githubusercontent.com/82771488/115153346-6f91a100-a043-11eb-8581-680002a14eff.png)
+
+## Instructions
+
+1. Download the encrypter.py file (since tkinter is build into python you won't need to npm install)
+
+2. Run the encrypter.py file
+
+3. You will now see a tkinter GUI pop up with two buttons on each side, encrypt file and decrypt file
+
+4. After clicking the encrypt button, there will now be file browse popup, you will then select the file you want to encrypt. After selecting a file, there will then be a message indicating that the file you have selected has been encrypted. 
+
+
+
+
+
+
+## Libraries/Dependancies used
