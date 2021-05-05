@@ -5,7 +5,7 @@ Programming for IT CIS-153
 
 
 
-## Final-Project-Encrypter
+ Final-Project-Encrypter
 This is my final project for Programming for IT CIS-153. This python program uses different imports such as cryptography, base64, and fernet to create a encrypted message or file. First, the user is prompted if they want to encrypt or decrypt a message/file. If chooseing encrypt the user must select which type of encryption from a selection of different types. After the user selects, the message/file is saved and a key is generated. This key can then be used to decrypt the message/file later.
 
 
@@ -13,7 +13,7 @@ This is my final project for Programming for IT CIS-153. This python program use
 
 ![Untitled Diagram](https://user-images.githubusercontent.com/82771488/115153346-6f91a100-a043-11eb-8581-680002a14eff.png)
 
-## Detailed Instructions
+# Detailed Instructions
 
 1. Download the encrypter.py file (since tkinter is build into python you won't need to npm install)
 
@@ -48,6 +48,12 @@ in this screenshot I encrypted Test_Bear.txt so then the program output the file
 
 ![Capture22](https://user-images.githubusercontent.com/82771488/117189070-c1f4f080-adab-11eb-8dbc-6c5a0bf57b06.PNG)
 
+#![Capture213](https://user-images.githubusercontent.com/82771488/117189890-b229dc00-adac-11eb-9558-8812329d5106.PNG)
+
+9. Lastly there will be a message confirming that that file has been decrypted successfully and it will also display the directory where the file was saved as Decrypted.(file type of file)
+
+![Capture435](https://user-images.githubusercontent.com/82771488/117190084-f61ce100-adac-11eb-8438-a452d53f0e9b.PNG)
+
 
 
 
@@ -55,3 +61,4 @@ in this screenshot I encrypted Test_Bear.txt so then the program output the file
 
 
 ## Libraries/Dependancies used
+
