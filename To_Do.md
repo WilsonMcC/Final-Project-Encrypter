@@ -7,11 +7,11 @@
 
 ~~File encrypted message popup~~
 
-~~Create a decrypt button
+~~Create a decrypt button~~
 
-~~File decrypted message popup
+~~File decrypted message popup~~
 
-~~Improve layout/styling of program
+~~Improve layout/styling of program~~
 ## Fernet
 
 ~~Generate a key upon clicking encrypt button and choosing a file to encrypt~~
@@ -20,7 +20,7 @@
 
 ~~Encrypt the file after choosing it~~
 
-~~Use decrypt button to prompt for key file and file to decrypt
+~~Use decrypt button to prompt for key file and file to decrypt~~
 
 
 
