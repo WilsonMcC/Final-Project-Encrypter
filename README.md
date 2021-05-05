@@ -48,7 +48,7 @@ in this screenshot I encrypted Test_Bear.txt so then the program output the file
 
 ![Capture22](https://user-images.githubusercontent.com/82771488/117189070-c1f4f080-adab-11eb-8dbc-6c5a0bf57b06.PNG)
 
-#![Capture213](https://user-images.githubusercontent.com/82771488/117189890-b229dc00-adac-11eb-9558-8812329d5106.PNG)
+![Capture213](https://user-images.githubusercontent.com/82771488/117189890-b229dc00-adac-11eb-9558-8812329d5106.PNG)
 
 9. Lastly there will be a message confirming that that file has been decrypted successfully and it will also display the directory where the file was saved as Decrypted.(file type of file)
 
