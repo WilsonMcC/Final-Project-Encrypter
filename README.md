@@ -13,7 +13,7 @@ This is my final project for Programming for IT CIS-153. This python program use
 
 ![Untitled Diagram](https://user-images.githubusercontent.com/82771488/115153346-6f91a100-a043-11eb-8581-680002a14eff.png)
 
-## Instructions
+## Detailed Instructions
 
 1. Download the encrypter.py file (since tkinter is build into python you won't need to npm install)
 
@@ -45,6 +45,9 @@ in this screenshot I encrypted Test_Bear.txt so then the program output the file
 ![Capture88](https://user-images.githubusercontent.com/82771488/117188787-6f1b3900-adab-11eb-9f3a-9d3a9c1c6209.PNG)
 
 8. After selecting the file there will be another pop-up telling you to select the key file that was generated when you encrypted the file. This is named Key_file.txt
+
+![Capture22](https://user-images.githubusercontent.com/82771488/117189070-c1f4f080-adab-11eb-8dbc-6c5a0bf57b06.PNG)
+
 
 
 
