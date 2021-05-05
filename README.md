@@ -25,7 +25,9 @@ This is my final project for Programming for IT CIS-153. This python program use
 
 5. In same directory where you have selected the file, there should now be an extra file called the same name except with "_encrypted" at the end. This is because there is now an encrypted copy of the file you have selected. The encryption method/library used in this program is Fernet.
 
-6. In the directory where you ran the program, there should now be 
+6. In the directory where you ran the program, there should now be a file called Key_file.txt. This is the key you will use the decrypt the file you have just encrypted.
+
+7. 
 
 
 
