@@ -40,6 +40,8 @@ in this screenshot I encrypted Test_Bear.txt so then the program output the file
 
 7. Now for the decrypting part. Open the python program again and this time click the decrypt button. There will now be a pop-up telling you to choose file you encrypted earlier (this file should end in _encrypted)
 
+![Capture55](https://user-images.githubusercontent.com/82771488/117188283-e56b6b80-adaa-11eb-8d88-ab8b4b84590e.PNG)
+
 8. After selecting the file there will be another pop-up telling you to select the key file that was generated when you encrypted the file. This is named Key_file.txt
 
 
