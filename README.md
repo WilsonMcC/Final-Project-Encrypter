@@ -60,17 +60,17 @@ in this screenshot I encrypted Test_Bear.txt so then the program output the file
 
 
 
-## Libraries/Dependancies used
+# Libraries/Dependancies used
 
-# time & strfttime (for clock)
+## time & strfttime (for clock)
 https://docs.python.org/3/library/time.html
 
 https://man7.org/linux/man-pages/man3/strftime.3.html
-# tkinter (for gui) & filedialog
+## tkinter (for gui) & filedialog
 https://docs.python.org/3/library/tkinter.html
 
 https://docs.python.org/3/library/dialog.html
-# cryptography / fernet / base64 (for encrypt/decrypt)
+## cryptography / fernet / base64 (for encrypt/decrypt)
 https://pypi.org/project/cryptography/
 
 https://cryptography.io/en/latest/fernet/
