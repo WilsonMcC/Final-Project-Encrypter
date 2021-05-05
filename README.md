@@ -62,3 +62,10 @@ in this screenshot I encrypted Test_Bear.txt so then the program output the file
 
 ## Libraries/Dependancies used
 
+# time (for clock)
+https://docs.python.org/3/library/time.html
+# strfttime (for clock)
+https://man7.org/linux/man-pages/man3/strftime.3.html
+# tkinter (For gui)
+https://docs.python.org/3/library/tkinter.html
+
