@@ -81,7 +81,10 @@ https://docs.python.org/3/library/base64.html
 
 # Planned Features For Later
 
-Direct input from the user to allow them to copy and paste the key instead of choosing a file
-Allow the user to type in a message instead of choosing a file
-Different encryption types/methods other than using Fernet
-Better layout/styling 
+* Direct input from the user to allow them to copy and paste the key instead of choosing a file
+
+* Allow the user to type in a message instead of choosing a file
+
+* Different encryption types/methods other than using Fernet
+
+* Better layout/styling 
