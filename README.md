@@ -19,7 +19,7 @@ This is my final project for Programming for IT CIS-153. This python program use
 
 2. Run the encrypter.py file in python 
 
-3. You will now see a tkinter GUI pop up with two buttons on each side, encrypt file and decrypt file. There is also the current date/time in the middle![Capture](https://user-images.githubusercontent.com/82771488/117182589-8571c680-ada4-11eb-8859-aca1a790bace.PNG)
+3. You will now see a tkinter GUI pop up with two buttons on each side, encrypt file and decrypt file.![Capture](https://user-images.githubusercontent.com/82771488/117182589-8571c680-ada4-11eb-8859-aca1a790bace.PNG)
 
 4. After clicking the encrypt button, there will now be file browse popup, you will then select the file you want to encrypt. After selecting a file, there will then be a message indicating that the file you have selected has been encrypted. 
 
