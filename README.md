@@ -30,7 +30,9 @@ After selecting open file, there will then be a message indicating that the file
 
 ![Capture32](https://user-images.githubusercontent.com/82771488/117184706-0336d180-ada7-11eb-9709-1725836e54c9.PNG) 
 
-in this screenshot I encrypted Test_Bear.txt so then the program output the file Test_Bear.txt_Encrypted to the directory
+![Capture66](https://user-images.githubusercontent.com/82771488/117186399-c7047080-ada8-11eb-91b6-74fe1bb5300e.PNG)
+
+in this screenshot I encrypted Test_Bear.txt so then the program output the file Test_Bear.txt_Encrypted to the directory. As you can see, the copy of the file is completely unreadable after being encrypted by Fernet
 
 6. In the directory where you ran the program, there should now be a file called Key_file.txt. This is the key you will use to decrypt the file copy you have just encrypted.
 
